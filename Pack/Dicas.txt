@@ -1,0 +1,7 @@
+1. Caso você não encontre a resolução de um questionário, cheque
+a resolução da prova, provavelmente terá um exemplo nela.
+
+2. Use o Geogebra para plotar as funções, não o Scilab.
+
+3. Não deixe de fazer os questionários, eles valem presença e te 
+preparam pra prova.

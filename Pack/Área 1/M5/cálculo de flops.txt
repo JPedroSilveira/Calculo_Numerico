@@ -1,0 +1,33 @@
+FLOPS = Floating Operations
+
+--------------------------------- IMPORTANTE SABER ---------------------------------------------------
+vetor + k = soma k a cada elemento do vetor = n flops (considera cada soma como flop)
+vetor x vetor = n flops (considera só multiplicações como flops)
+vetor x matriz = n^2 flops (considera só multiplicações como flops)
+matriz x matriz = n^3 flops (considera só multiplicações como flops)
+
+
+Dados x = [10 100 1000] e y = [2 3 4]
+
+x.*y =  [20 300 4000]
+x.^2 =  [100   10000   1000000]
+
+ou seja, adicionar . a uma operação faz ela ser executada elemento a elemento
+------------------------------------------------------------------------------------------------------
+
+Ex:
+
+q1:
+tam = 320
+x + 2 = 320 (soma 2 a cada elemento do vetor)
+x + 4 = 320 
+(x+2) .* (x+4) = 320
+total = 960
+
+q2:
+tam = 367
+x.^2 = 367
+x+3 = 367
+x./(x+3) = 367
+
+
