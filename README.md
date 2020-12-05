@@ -1,1 +1,1 @@
-MAT01032-Calculo-Numerico-A-2019-2-UFRGS
+Exercícios desenvolvidos durante a disciplina de Cálculo Numérico (MAT-UFRGS)
