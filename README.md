@@ -1,1 +1,3 @@
-Exercícios desenvolvidos durante a disciplina de Cálculo Numérico (MAT-UFRGS).
+# Cálculo Numérico
+
+Exercícios desenvolvidos durante a disciplina (MAT-UFRGS).
